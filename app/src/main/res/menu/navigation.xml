@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_mathces"
+        android:icon="@drawable/ic_action_ball"
+        android:title="Matches" />
+
+    <item
+        android:id="@+id/navigation_teams"
+        android:icon="@drawable/ic_action_team"
+        android:title="Teams" />
+
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_action_favorite"
+        android:title="Favorites" />
+</menu>
